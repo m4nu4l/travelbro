@@ -15,7 +15,7 @@ importScripts("/travelbro/workbox-v3.6.2/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/travelbro/workbox-v3.6.2"});
 
 importScripts(
-  "/travelbro/precache-manifest.b1293e0b54884cb134e188f1ecf13795.js"
+  "/travelbro/precache-manifest.92512d42f3b82c828d7fd7d8ff858371.js"
 );
 
 workbox.clientsClaim();

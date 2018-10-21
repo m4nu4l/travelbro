@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/travelbro/static/css/main.a72e1c59.chunk.css"
   },
   {
-    "revision": "596c21e91c7131c5c87d907e8a4c11e8",
+    "revision": "d459a6b56ae3daf8df5a7817f4335612",
     "url": "/travelbro/index.html"
   }
 ];
